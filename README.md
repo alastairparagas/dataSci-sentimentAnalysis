@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis
 > Data Manipulation at Scale: Systems and Algorithms
 
-The following is my Python assignment turn-ins on the ["Data Manipulation at Scale: Systems and Algorithms"](https://www.coursera.org/learn/data-manipulation) at Coursera (taught at University of Washington). 
+The following is my Python assignment turn-ins on the ["Data Manipulation at Scale: Systems and Algorithms"](https://www.coursera.org/learn/data-manipulation) course at Coursera (taught at University of Washington). 
 
 The class goes in depth to the application of statistics and structures in the technology field to organize and find correlations on data, starting off with relational algebra (an abstraction) and its implementation (Structured Query Language - SQL - used at relational databases that powers apps and websites). It then proceeds to certain algorithms like [MapReduce](http://research.google.com/archive/mapreduce.html) that is pioneered by Google (and open-source, free software systems like [Apache Hadoop](https://hadoop.apache.org) that make it a reality) and non-SQL databases (the NoSQL movement) that do not use SQL (making them harder to use and a focus on doing things manually when storing data) but with the benefit of scalability - databases can now be on multiple servers.
 
